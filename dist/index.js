@@ -1,5 +1,5 @@
 "use strict";
-var message = function () {
+const message = () => {
     console.log("hello world");
 };
 message();
